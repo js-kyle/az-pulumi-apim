@@ -1,0 +1,3 @@
+name: az-pulumi-apim
+description: IaC stack for az-pulumi-apim
+runtime: nodejs
